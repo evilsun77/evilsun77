@@ -1,10 +1,14 @@
-﻿using System;
+﻿
+using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace adress2
+namespace adress
 {
-    class Adress
+    class adress
     {
+        string city;
+        string street;
+        int number;
     }
 }
